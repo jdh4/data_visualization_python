@@ -1,29 +1,9 @@
-# JupyterLite Demo
+# Data Visualization in Python
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+#### Run Notebooks Using Jupyterlite
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+1. Point your browser to [https://jdh4.github.io/data_visualization_python/](https://jdh4.github.io/data_visualization_python/)
+2. After the JupyterLite interface loads, in the file browser on the left, double-click on `python_data_vis.ipynb`
+3. Run the notebook as usual by clicking on the "play" button and so on.
 
-## ✨ Try it in your browser ✨
-
-➡️ **https://jupyterlite.github.io/demo**
-
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
-
-## Requirements
-
-JupyterLite is being tested against modern web browsers:
-
-- Firefox 90+
-- Chromium 89+
-
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+The preferred web browsers are Firefox 90+ and Chromium 89+.
